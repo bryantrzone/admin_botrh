@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
-$db = 'chatbot_wp';
-$user = 'root';
-$pass = '';
+$db = 'u106289951_rh_bot';
+$user = 'u106289951_rh_bot';
+$pass = '9M1HS5Io|';
 
 $conn = new mysqli($host, $user, $pass, $db);
 if ($conn->connect_error) {
